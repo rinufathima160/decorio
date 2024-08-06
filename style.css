@@ -1,0 +1,66 @@
+.imgdiv{
+    position: relative;
+}
+
+.texts{
+    position: absolute;
+    margin-top: -650px;
+    margin-left: 200px;
+}
+
+.cont-img{
+    position: relative;
+}
+
+.cont-text{
+    position: absolute;
+    margin-top: -650px;
+    margin-left: 200px;
+}
+.Rectangle10{
+    position: relative;
+}
+.Rectangletxt{
+    position: absolute;
+     margin-top: 2700px;
+}
+
+.fot-head{
+font-size: 25px;
+color:#292F36;
+font-family: "DM Serif Display", serif;
+
+}
+
+.fot-para{
+font-size: 18px;
+color: #4D5053;
+}
+
+.service-img{
+    position: relative;
+}
+
+.service-txt{
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 600px;
+}
+.Rectangleetxt{
+    position: absolute;
+    margin-top: -270px;
+    margin-left: 450px;
+}
+
+.button-news:hover{
+    color: white;
+    background-color: #292F36;
+}
+
+.heading{
+    font-family: "DM Serif Display", serif;
+
+}
+.body{
+    font-family: "Jost", sans-serif;
+}
